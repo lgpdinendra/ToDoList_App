@@ -1,0 +1,24 @@
+.todowrapper{
+    text-align: center;
+    margin-top: 80px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border: 1px solid;
+    padding-bottom: 30px;
+    font-size: 20px;
+}
+
+#tt1{
+    color: green;
+} 
+
+.todo1{
+    border: 1px solid;
+    
+}
+
+.todo2{
+    word-wrap: break-word;
+}
+
+  
