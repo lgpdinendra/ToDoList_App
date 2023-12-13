@@ -6,19 +6,34 @@
     border: 1px solid;
     padding-bottom: 30px;
     font-size: 20px;
-}
-
-#tt1{
-    color: green;
-} 
-
-.todo1{
-    border: 1px solid;
+    
+        background-image: url(../images/image2.jpg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
     
 }
 
+#tt1{
+    display: inline-block;
+    padding-right: 30px;
+    
+} 
+
+.todo1{
+   
+        height: 40px;
+        width: 100%;
+        white-space: nowrap;
+        overflow-x: auto;
+     
+      text-align: center;
+      
+}
+
 .todo2{
-    word-wrap: break-word;
+    display: inline-block;
+    
 }
 
   

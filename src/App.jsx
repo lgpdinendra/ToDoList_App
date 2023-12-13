@@ -9,8 +9,9 @@ function App() {
 
   return (
     <>
-      
+    <div className='main'>
       <ToDoWrapper/>
+      </div>
     </>
   )
 }
